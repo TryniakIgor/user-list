@@ -1,21 +1,7 @@
 import React, { useEffect, useState } from "react";
-import Modal from "./Modal/Modal";
+import Modal from "../Modal/Modal";
 
-export function Users() {
-  const [content, setContent] = useState(<UsersList showForm={showForm} />);
-
-  function showList() {
-    setContent(<UsersList showForm={showForm} />);
-  }
-
-  function showForm() {
-    setContent(<UsersForm showList={showList} />);
-  }
-
-  return <div className="Users">{content}</div>;
-}
-
-function UsersList(props) {
+export function UsersList(props) {
   const [users, setUsers] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
 
@@ -82,7 +68,7 @@ function UsersList(props) {
 function UsersForm(props) {
   return (
     <>
-      <h2>Addk user</h2>
+      <h2>Addggggk user</h2>
       <button onClick={() => props.showList()} type="button">
         Cancel
       </button>

@@ -1,12 +1,12 @@
 import React from "react";
-import { Users } from "./components/users";
+import { UsersList } from "./components/Userlist/Userlist";
 
 
 function App() {
   return (
     <div className="App">
       {
-        <Users />
+        <UsersList />
       }
 
     </div>
