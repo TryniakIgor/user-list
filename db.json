@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Nik",
+      "lastName": "Rurk",
+      "email": "nik@gmail.com",
+      "phone": "0665235225",
+      "subscription": "standard"
+    },
+    {
+      "id": 2,
+      "firstName": "Luk",
+      "lastName": "Skyworker",
+      "email": "luk@gmail.com",
+      "phone": "0678523641",
+      "subscription": "premium"
+    },
+    {
+      "firstName": "dsfsd",
+      "lastName": "fdsgf",
+      "email": "dfgd@ss",
+      "phone": "343",
+      "subscription": "premium",
+      "id": 3
+    },
+    {
+      "firstName": "ss",
+      "lastName": "sdf",
+      "email": "sdfd@safd",
+      "phone": "3245",
+      "subscription": "premium",
+      "id": 4
+    },
+    {
+      "firstName": "ss",
+      "lastName": "sdf",
+      "email": "sdfd@safd",
+      "phone": "3245",
+      "subscription": "premium",
+      "id": 5
+    },
+    {
+      "firstName": "ss",
+      "lastName": "sdf",
+      "email": "sdfd@safd",
+      "phone": "3245",
+      "subscription": "premium",
+      "id": 6
+    },
+    {
+      "firstName": "ss",
+      "lastName": "sdf",
+      "email": "sdfd@safd",
+      "phone": "3245",
+      "subscription": "premium",
+      "id": 7
+    },
+    {
+      "firstName": "ret",
+      "lastName": "dfdg",
+      "email": "kvp1813@gmail.com",
+      "phone": "0986351502",
+      "subscription": "no",
+      "id": 8
+    },
+    {
+      "firstName": "sdgsd",
+      "lastName": "sdgsd",
+      "email": "dsfd@sdf",
+      "phone": "3235425",
+      "subscription": "premium",
+      "id": 9
+    }
+
+
+  ]
+}
